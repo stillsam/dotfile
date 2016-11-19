@@ -117,9 +117,9 @@ URxvt*color15 : #EEEEEC
 ! URxvt*borderColor: colour
 
 ! Select the fonts to be used. This is a comma separated list of font names that are checked in order when trying to find
-URxvt*font: xft:DejaVu Sans Mono:pixelsize=14
+URxvt*font: xft:DejaVu Sans Mono:pixelsize=13
 
-URxvt*boldFont: xft:DejaVu Sans Mono:pixelsize=14:style=Bold
+URxvt*boldFont: xft:DejaVu Sans Mono:pixelsize=13:style=Bold
 
 ! 
 ! URxvt*italicFont: fontlist
